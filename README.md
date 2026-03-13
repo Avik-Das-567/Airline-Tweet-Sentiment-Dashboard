@@ -148,7 +148,7 @@ The sidebar provides controls for interacting with the dashboard:
 
 These controls dynamically update the visualizations in real time.
 
-## Running the App locally
+## Running the App Locally
 
 **1.** Clone the Repository
 ```
