@@ -22,7 +22,7 @@ The application loads tweet data, processes timestamps, and enables interactive 
 
 This project uses the **Twitter US Airline Sentiment Dataset** available on Kaggle.
 
-### Dataset Link: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+### Dataset Source: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 The dataset contains tweets directed at major US airlines along with sentiment labels.
 
