@@ -1,6 +1,6 @@
 # Sentiment Analysis of Tweets about US Airlines
 
-### Live App: https://airline-tweet-sentiment-dashboard.streamlit.app
+**Live App: https://airline-tweet-sentiment-dashboard.streamlit.app**
 
 This project is an **interactive data visualization dashboard** built with **Python** and **Streamlit** to explore the sentiment of tweets related to major US airlines.
 
@@ -22,7 +22,7 @@ The application loads tweet data, processes timestamps, and enables interactive 
 
 This project uses the **Twitter US Airline Sentiment Dataset** available on Kaggle.
 
-### Dataset Source: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+**Dataset Source: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment**
 
 The dataset contains tweets directed at major US airlines along with sentiment labels.
 
